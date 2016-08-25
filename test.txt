@@ -1,1 +1,0 @@
-addeing first line from git bash cmd prompt.
