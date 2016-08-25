@@ -14,9 +14,9 @@
         <url>http://www.example.com/</url>
     </organization>
 
-    <name>helloworld</name>
+    <!--<name>helloworld</name>
     <description>This is the com.atlassian.plugin:helloworld plugin for Atlassian JIRA.</description>
-    <packaging>atlassian-plugin</packaging>
+    <packaging>atlassian-plugin</packaging> -->
 
     <dependencies>
         <dependency>
